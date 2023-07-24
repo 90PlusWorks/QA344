@@ -1,5 +1,5 @@
 # QA344
- https://90plusworks.github.io/QA344/
+ Navigate to the week by clicking above to download or view the PDFs.
  
 Lecture 1: https://youtu.be/SqQzc6Gmka0
 
