@@ -1,5 +1,6 @@
 # QA344
  https://90plusworks.github.io/QA344/
+Lecture 1: https://youtu.be/SqQzc6Gmka0
 
 Files for QA344 course as backup to SunLearn
 Install R, RStudio and Radiant using this .exe on Windows:
