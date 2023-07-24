@@ -1,7 +1,13 @@
 # QA344
  Navigate to the week by clicking above to download or view the PDFs.
  
-Lecture 1: https://youtu.be/SqQzc6Gmka0
+Lecture 1 Week 1: https://youtu.be/SqQzc6Gmka0
+
+Lecture 2 Week 1: https://youtu.be/7GL-aPL_yeo
+
+Lecture 3 Week 1: https://youtu.be/RafQA6ueAg0
+
+Lecture 4 Week 1: https://youtu.be/D7ay6xvTpu8
 
 Files for QA344 course as backup to SunLearn
 Install R, RStudio and Radiant using this .exe on Windows:
