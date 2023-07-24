@@ -1,5 +1,5 @@
 # QA344
- Navigate to the week by clicking above to download or view the PDFs.
+ Navigate to the week by clicking above to download or view the PDFs or click below to play the lectures on Youtube.
  
 Lecture 1 Week 1: https://youtu.be/SqQzc6Gmka0
 
