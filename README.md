@@ -8,7 +8,7 @@ Install R, RStudio and Radiant using this .exe on Windows:
 
 https://download.rady.ucsd.edu/Rady-Radiant-Installer-Latest.exe
 
-This video shows more detail if required: https://www.youtube.com/watch?v=CO4BGZOuUkM
+This video shows more detail if required: https://youtu.be/f5h2oDBsnJI
 
 For Mac and Linux navigate to this page: https://radiant-rstats.github.io/docs/install.html
 
