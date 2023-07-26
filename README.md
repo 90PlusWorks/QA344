@@ -9,6 +9,8 @@ Lecture 3 Week 1: https://youtu.be/RafQA6ueAg0
 
 Lecture 4 Week 1: https://youtu.be/D7ay6xvTpu8
 
+Install swirl in RStudio: https://youtu.be/vbuTqLKqg8Y swirl() teaches R basics using an interactive method. It's optional.
+
 Files for QA344 course as backup to SunLearn
 Install R, RStudio and Radiant using this .exe on Windows:
 
