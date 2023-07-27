@@ -16,7 +16,7 @@ I will be using the Radiant Addin in RStudio to simplify using R.
 
  Navigate to the week by clicking above to download or view the PDFs or click below to play the lectures on Youtube.
  
-#Week 1
+# Week 1
 
 Lecture 1 Week 1: https://youtu.be/SqQzc6Gmka0
 
@@ -29,7 +29,7 @@ Lecture 4 Week 1: https://youtu.be/D7ay6xvTpu8
 Lecture 5 Week 1 swirl(): https://youtu.be/5436WWZMgkc
 
 
-#Week 2
+# Week 2
 
 Lecture 1 Week 2: https://youtu.be/uKUurqEiZuw
 
